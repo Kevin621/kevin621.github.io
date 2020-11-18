@@ -3,6 +3,8 @@
 
 ### I am a verified discord bot developer
 
+## (Discord bot template)[https://github.com/Kevin621/mr.skeleton]
+
 # Pricing
 ## $5 for a single purpose discord bot. Ex: currency/shopping.
 ## $15 for a medium sized bot with up to 10 commands.
