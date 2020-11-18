@@ -3,7 +3,7 @@
 
 ### I am a verified discord bot developer
 
-## (https://github.com/Kevin621/mr.skeleton) [Bot template]
+## [Bot Template](https://github.com/Kevin621/mr.skeleton)
 
 # Pricing
 ## $5 for a single purpose discord bot. Ex: currency/shopping.
